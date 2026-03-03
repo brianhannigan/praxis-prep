@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# praxis-prep
-=======
 # Praxis Prep
 
 Structured, high-performance study system for **Praxis** exams, organized by test code.
@@ -29,4 +26,3 @@ Top-percentile performance requires:
 - fast recognition (terminology)
 - correct framework selection (no rule-mixing)
 - disciplined pacing
->>>>>>> c6ad625 (Initial Praxis multi-test structure)
